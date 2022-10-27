@@ -1,4 +1,4 @@
-# Segment_Transparent_Objects
+# Thermonitor Backend
 ## Introduce
 This repository contains the data and code for ECCV2020 paper [Segmenting Transparent Objects in the Wild](https://arxiv.org/abs/2003.13948).
 
