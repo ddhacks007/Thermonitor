@@ -1,7 +1,7 @@
 #Thermonitor UI
 go into the theromitor-ui module and run the command
-- npm install 
-- npm start
+- ```npm install ```
+- ```npm start```
 
 
 # Thermonitor Backend
@@ -36,7 +36,7 @@ Add the checkpoint into the demo directory present inside the backed-module
 Add the checkpoint into the checkpoint directory present in the WPS directory present in the backend module of this project.
 
 ## Turn ON the FLASK server present in the backend-module
-  python3 Server.py 
+  ```python3 Server.py ```
 
 
 ```
