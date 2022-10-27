@@ -1,4 +1,4 @@
-#Thermonitor UI
+# Thermonitor UI
 go into the theromitor-ui module and run the command
 - ```npm install ```
 - ```npm start```
