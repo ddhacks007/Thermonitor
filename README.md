@@ -6,8 +6,8 @@ go into the theromitor-ui module and run the command
 
 # Thermonitor Backend
 DATASETS USED:
-1.) Trans10K
-2.) RGBT
+- Trans10K
+- RGBT
 
 
 ## Environments required for the backend of the thermonitor
