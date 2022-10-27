@@ -1,7 +1,7 @@
 #Thermonitor UI
 go into the theromitor-ui module and run the command
-1.) npm install 
-2.) npm start
+- npm install 
+- npm start
 
 
 # Thermonitor Backend
